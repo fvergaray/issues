@@ -1,0 +1,9 @@
+<!--current code provided by edge reflow-->
+<a href="day_1.html">
+                    <input id="input3" type="button" value="September 2 "></input>
+                </a>
+ 
+<!-- change To-->
+
+<input id="input4" type="button" value="September 3 " onClick="javascript:location.href = 'day_2.html';"></input>
+ 
